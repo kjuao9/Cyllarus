@@ -1,0 +1,11 @@
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.AssemblyReference.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.FormGastoEmRestaurante.resources
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb
