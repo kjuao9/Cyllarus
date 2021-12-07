@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TrocaDeValores
+namespace GostoDisso
 {
     internal static class Program
     {
@@ -16,7 +16,7 @@ namespace TrocaDeValores
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmRestoDeDivisao());
+            Application.Run(new Form1());
         }
     }
 }

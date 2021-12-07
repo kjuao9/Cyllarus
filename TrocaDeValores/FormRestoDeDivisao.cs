@@ -10,20 +10,19 @@ using System.Windows.Forms;
 
 namespace TrocaDeValores
 {
-    public partial class frmTrocaDeValores : Form
+    public partial class frmRestoDeDivisao : Form
     {
-        public frmTrocaDeValores()
+        public frmRestoDeDivisao()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string auxiliar;
-            auxiliar = txtPrimeiroValor.Text;
-            txtPrimeiroValor.Text = txtSegundoValor.Text;
-            txtSegundoValor.Text = auxiliar;
-            MessageBox.Show("Troca de valores concluída","Informação",MessageBoxButtons.OK,MessageBoxIcon.Information);
+            int Dividendo = Convert.ToInt32(txtDividendo.Text);
+            int Divisor = Convert.ToInt32(txtDivisor.Text);
+            int Resto = Dividendo % Divisor;
+            txtRestoDaDivisao.Text = Resto.ToString();
         }
     }
 }

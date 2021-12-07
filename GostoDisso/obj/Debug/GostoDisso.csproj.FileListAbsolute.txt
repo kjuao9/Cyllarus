@@ -1,0 +1,10 @@
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\bin\Debug\GostoDisso.exe.config
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\bin\Debug\GostoDisso.exe
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\bin\Debug\GostoDisso.pdb
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.Form1.resources
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.Properties.Resources.resources
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.csproj.GenerateResource.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.csproj.CoreCompileInputs.cache
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.exe
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\GostoDisso\obj\Debug\GostoDisso.pdb

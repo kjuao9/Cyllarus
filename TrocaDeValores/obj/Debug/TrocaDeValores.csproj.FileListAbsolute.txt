@@ -3,9 +3,9 @@ C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.AssemblyReference.cache
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.SuggestedBindingRedirects.cache
-C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.frmTrocaDeValores.resources
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.cache
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.CoreCompileInputs.cache
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.exe
 C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.pdb
+C:\Users\joaoc\Desktop\Joao2\Programacao\CSharp\SolucaoCapitulo01\TrocaDeValores\obj\Debug\TrocaDeValores.frmRestoDeDivisao.resources
